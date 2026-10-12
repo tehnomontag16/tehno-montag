@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ТехноМонтаж — обшивка, остекление и ремонт балконов</title>
+  <meta name="description" content="ТехноМонтаж: обшивка балконов, остекление, ремонт крыш балконов и другие работы. Бесплатный замер, гарантия 3 года. Звоните: +7 (900) 000-00-00">
+  <meta name="keywords" content="остекление балконов, обшивка балконов, ремонт крыши балкона, утепление балкона, отделка балкона">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ШАПКА -->
+  <header class="header">
+    <div class="container header-inner">
+      <div class="logo">🔧 Техно<span>Монтаж</span></div>
+      <nav class="nav">
+        <a href="#services">Услуги</a>
+        <a href="#why">Почему мы</a>
+        <a href="#steps">Этапы</a>
+        <a href="#contacts">Контакты</a>
+      </nav>
+      <a href="tel:+79000000000" class="phone">+7 (900) 000-00-00</a>
+    </div>
+  </header>
+
+  <!-- ГЛАВНЫЙ БЛОК -->
+  <section class="hero">
+    <div class="container">
+      <h1>Обшивка и остекление балконов под ключ</h1>
+      <p class="hero-sub">Ремонт крыш, утепление, отделка. Бесплатный замер и расчёт за 1 день. Гарантия 3 года.</p>
+      <div class="hero-buttons">
+        <a href="#contacts" class="btn btn-primary">Вызвать замерщика</a>
+        <a href="#services" class="btn btn-outline">Наши услуги</a>
+      </div>
+      <div class="hero-stats">
+        <div><strong>12+</strong><span>лет опыта</span></div>
+        <div><strong>1500+</strong><span>балконов</span></div>
+        <div><strong>3 года</strong><span>гарантия</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- УСЛУГИ -->
+  <section id="services" class="section">
+    <div class="container">
+      <h2>Наши услуги</h2>
+      <p class="section-sub">Полный цикл работ с балконами и лоджиями</p>
+      <div class="grid">
+        <div class="card">
+          <div class="icon">🪟</div>
+          <h3>Остекление балконов</h3>
+          <p>Пластиковые и алюминиевые окна, тёплое и холодное остекление, выносные конструкции.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🧱</div>
+          <h3>Обшивка балконов</h3>
+          <p>Внутренняя и наружная отделка: сайдинг, панели ПВХ, профлист, вагонка.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🏠</div>
+          <h3>Ремонт крыши балкона</h3>
+          <p>Замена и монтаж кровли, гидроизоляция, устранение протечек.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🌡</div>
+          <h3>Утепление</h3>
+          <p>Утепление стен, пола и потолка. Тёплый балкон круглый год.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🪵</div>
+          <h3>Отделка внутри</h3>
+          <p>Ламинат, плитка, декоративные панели, полки, шкафы.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🔧</div>
+          <h3>Прочие работы</h3>
+          <p>Усиление парапета, замена ограждений, козырьки, отливы, водостоки.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ПОЧЕМУ МЫ -->
+  <section id="why" class="section section-dark">
+    <div class="container">
+      <h2>Почему выбирают ТехноМонтаж</h2>
+      <div class="features">
+        <div class="feature"><span>✓</span><div><h4>Бесплатный замер</h4><p>Выезд специалиста в удобное время</p></div></div>
+        <div class="feature"><span>✓</span><div><h4>Фиксированная смета</h4><p>Цена не меняется после подписания договора</p></div></div>
+        <div class="feature"><span>✓</span><div><h4>Гарантия 3 года</h4><p>На все виды работ и материалы</p></div></div>
+        <div class="feature"><span>✓</span><div><h4>Работаем без предоплаты</h4><p>Оплата по факту выполненных работ</p></div></div>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ТехноМонтаж — обшивка, остекление и ремонт балконов</title>
+  <meta name="description" content="ТехноМонтаж: обшивка балконов, остекление, ремонт крыш балконов и другие работы. Бесплатный замер, гарантия 3 года. Звоните: +7 (900) 000-00-00">
+  <meta name="keywords" content="остекление балконов, обшивка балконов, ремонт крыши балкона, утепление балкона, отделка балкона">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ШАПКА -->
+  <header class="header">
+    <div class="container header-inner">
+      <div class="logo">🔧 Техно<span>Монтаж</span></div>
+      <nav class="nav">
+        <a href="#services">Услуги</a>
+        <a href="#why">Почему мы</a>
+        <a href="#steps">Этапы</a>
+        <a href="#contacts">Контакты</a>
+      </nav>
+      <a href="tel:+79000000000" class="phone">+7 (900) 000-00-00</a>
+    </div>
+  </header>
+
+  <!-- ГЛАВНЫЙ БЛОК -->
+  <section class="hero">
+    <div class="container">
+      <h1>Обшивка и остекление балконов под ключ</h1>
+      <p class="hero-sub">Ремонт крыш, утепление, отделка. Бесплатный замер и расчёт за 1 день. Гарантия 3 года.</p>
+      <div class="hero-buttons">
+        <a href="#contacts" class="btn btn-primary">Вызвать замерщика</a>
+        <a href="#services" class="btn btn-outline">Наши услуги</a>
+      </div>
+      <div class="hero-stats">
+        <div><strong>12+</strong><span>лет опыта</span></div>
+        <div><strong>1500+</strong><span>балконов</span></div>
+        <div><strong>3 года</strong><span>гарантия</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- УСЛУГИ -->
+  <section id="services" class="section">
+    <div class="container">
+      <h2>Наши услуги</h2>
+      <p class="section-sub">Полный цикл работ с балконами и лоджиями</p>
+      <div class="grid">
+        <div class="card">
+          <div class="icon">🪟</div>
+          <h3>Остекление балконов</h3>
+          <p>Пластиковые и алюминиевые окна, тёплое и холодное остекление, выносные конструкции.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🧱</div>
+          <h3>Обшивка балконов</h3>
+          <p>Внутренняя и наружная отделка: сайдинг, панели ПВХ, профлист, вагонка.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🏠</div>
+          <h3>Ремонт крыши балкона</h3>
+          <p>Замена и монтаж кровли, гидроизоляция, устранение протечек.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🌡</div>
+          <h3>Утепление</h3>
+          <p>Утепление стен, пола и потолка. Тёплый балкон круглый год.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🪵</div>
+          <h3>Отделка внутри</h3>
+          <p>Ламинат, плитка, декоративные панели, полки, шкафы.</p>
+        </div>
+        <div class="card">
+          <div class="icon">🔧</div>
+          <h3>Прочие работы</h3>
+          <p>Усиление парапета, замена ограждений, козырьки, отливы, водостоки.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ПОЧЕМУ МЫ -->
+  <section id="why" class="section section-dark">
+    <div class="container">
+      <h2>Почему выбирают ТехноМонтаж</h2>
+      <div class="features">
+        <div class="feature"><span>✓</span><div><h4>Бесплатный замер</h4><p>Выезд специалиста в удобное время</p></div></div>
+        <div class="feature"><span>✓</span><div><h4>Фиксированная смета</h4><p>Цена не меняется после подписания договора</p></div></div>
+        <div class="feature"><span>✓</span><div><h4>Гарантия 3 года</h4><p>На все виды работ и материалы</p></div></div>
+        <div class="feature"><span>✓</span><div><h4>Работаем без предоплаты</h4><p>Оплата по факту выполненных работ</p></div></div>
