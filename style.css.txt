@@ -1,4 +1,4 @@
-[12.10.2026 16:20] Ruslan Z: * { margin: 0; padding: 0; box-sizing: border-box; }
+ { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
   font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
