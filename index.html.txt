@@ -16,7 +16,22 @@
       <div class="logo">🔧 Техно<span>Монтаж</span></div>
       <nav class="nav">
         <a href="#services">Услуги</a>
-        <a href="#why">Почему мы</a>
+         <!-- НАШИ РАБОТЫ -->
+  <section id="works" class="section">
+    <div class="container">
+      <h2>Наши работы</h2>
+      <p class="section-sub">Более 1500 выполненных балконов</p>
+      <div class="gallery">
+        <img src="images/rabota-1.jpg" alt="Остекление балкона">
+        <img src="images/rabota-2.jpg" alt="Обшивка балкона">
+        <img src="images/rabota-3.jpg" alt="Ремонт крыши балкона">
+        <img src="images/rabota-4.jpg" alt="Утепление балкона">
+        <img src="images/rabota-5.jpg" alt="Отделка внутри">
+        <img src="images/rabota-6.jpg" alt="Готовый балкон">
+      </div>
+    </div>
+  </section>
+<a href="#why">Почему мы</a>
         <a href="#steps">Этапы</a>
         <a href="#contacts">Контакты</a>
       </nav>
